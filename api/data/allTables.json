@@ -1,0 +1,28 @@
+{
+  "tables": [
+    {
+      "name": "15 Minutes",
+      "capacity": 1,
+      "isAvailable": true,
+      "location": "Office"
+    },
+    {
+      "name": "30 minutes",
+      "capacity": 1,
+      "isAvailable": true,
+      "location": "Office"
+    },
+    {
+      "name": "45 minutes",
+      "capacity": 1,
+      "isAvailable": true,
+      "location": "Office"
+    },
+    {
+      "name": "60 minutes",
+      "capacity": 1,
+      "isAvailable": true,
+      "location": "Office"
+    }
+  ]
+}
