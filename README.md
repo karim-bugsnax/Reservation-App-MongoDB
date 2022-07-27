@@ -42,6 +42,18 @@ Click on book me button, then choose a date, then the desired time.
 You will have a choice between 4 different time frames.
 Input all the needed feilds, and boom you are finished :)
 
+
+# AI Support / Utility
+
+While I did not have the time to make an AI to extract data, one idea I had was to make a 
+suggestion bot. 
+
+Essentially, it would analyze the most choosen times, and recommend to users other times,
+that way the working team could have an easier time managing reservation, rather than having
+days with full meetings, and other days with no meetings.
+
+This data could also be harvested to see when people tend to choose meetings in general.
+
 # Comments / Important Notes
 
 - ignore the thank you page : it does not send an email (this was just for it to look professional)
